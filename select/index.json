@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "DUNK",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2025-12-25T11:32:31.938577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GO FIRST (feat. Stunna 4 Vegas & Rich Dunk)",
+      "artist": "DaBaby feat. Stunna 4 Vegas & Rich Dunk",
+      "has_synced": true,
+      "path": "select/01_GO_FIRST_(feat._Stunna_4_Vegas_&_Rich_Dunk)_DaBaby_feat._Stunna_4_Vegas_&_Rich_Dunk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GO FIRST (feat. Stunna 4 Vegas & Rich Dunk)",
+      "artist": "DaBaby",
+      "has_synced": true,
+      "path": "select/02_GO_FIRST_(feat._Stunna_4_Vegas_&_Rich_Dunk)_DaBaby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Slam Dunk (Way To Go!)",
+      "artist": "Quiet Riot",
+      "has_synced": true,
+      "path": "select/03_Slam_Dunk_(Way_To_Go!)_Quiet_Riot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Soundtrack To Missing A Slam Dunk",
+      "artist": "Hot Mulligan",
+      "has_synced": true,
+      "path": "select/04_The_Soundtrack_To_Missing_A_Slam_Dunk_Hot_Mulligan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dunk the Funk",
+      "artist": "Fila Fresh Crew",
+      "has_synced": false,
+      "path": "select/05_Dunk_the_Funk_Fila_Fresh_Crew.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Po-Dunk",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/06_Po-Dunk_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Slam Dunk (Da Funk)",
+      "artist": "Five",
+      "has_synced": true,
+      "path": "select/07_Slam_Dunk_(Da_Funk)_Five.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Slam dunk",
+      "artist": "Five",
+      "has_synced": false,
+      "path": "select/08_Slam_dunk_Five.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Slam Dunk",
+      "artist": "Five",
+      "has_synced": true,
+      "path": "select/09_Slam_Dunk_Five.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dunk on Me",
+      "artist": "Blood Cultures",
+      "has_synced": false,
+      "path": "select/10_Dunk_on_Me_Blood_Cultures.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slam Dunk (feat. Kstylis)",
+      "artist": "Valentino Khan feat. Skrillex & Kstylis",
+      "has_synced": true,
+      "path": "select/11_Slam_Dunk_(feat._Kstylis)_Valentino_Khan_feat._Skrillex_&_Kstylis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Slam Dunk (feat. Kstylis)",
+      "artist": "Valentino Khan/Skrillex/Kstylis",
+      "has_synced": true,
+      "path": "select/12_Slam_Dunk_(feat._Kstylis)_Valentino_Khan_Skrillex_Kstylis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DUNK feat.Masato (coldrain)",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_DUNK_feat.Masato_(coldrain)_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
